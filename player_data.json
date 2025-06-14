@@ -1,0 +1,25 @@
+{
+    "id": {
+        "existing_player": {
+            "level": 5,
+            "exp": 70,
+            "rank": "D",
+            "active_quests": {},
+            "completed_quests": 4
+        },
+        "new_player": {
+            "level": 1,
+            "exp": 0,
+            "rank": "E",
+            "active_quests": {},
+            "completed_quests": 0
+        },
+        "test_player": {
+            "level": 5,
+            "exp": 0,
+            "rank": "D",
+            "active_quests": {},
+            "completed_quests": 0
+        }
+    }
+}
